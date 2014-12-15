@@ -1,0 +1,15 @@
+{
+  "name": "Youtube App",
+  "description": "Youtube in a Window",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["youtube.js"]
+    }
+  },
+  "permissions": [ "webview" ],
+ "icons": {
+    "16": "icon.png",
+    "128": "icon.png"
+  }
+}
